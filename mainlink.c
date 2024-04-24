@@ -133,4 +133,5 @@ int main() {
     deleteAllWarehouses(&warehouses);
 
     return 0;
+    //Comment for the commit, this was the DB setup
 }
